@@ -1,4 +1,4 @@
-# Tarjeta de Modelo: Predicción del Precio de Bitcoin Basado en LSTM
+# Modelo Predictor del Precio de Bitcoin Basado en LSTM
 
 ## Descripción del Modelo
 Este modelo LSTM está diseñado para predecir el precio de Bitcoin (BTC-USD) utilizando datos históricos de precios e indicadores técnicos. La arquitectura del modelo se basa en capas de memoria a largo corto plazo (*Long Short-Term Memory*, LSTM), que son efectivas para capturar patrones temporales en datos de series de tiempo.
